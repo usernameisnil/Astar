@@ -1,0 +1,5 @@
+﻿  Astar.cpp
+f:\c++test\consoleapplication1\consoleapplication1\astar.cpp(28): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+f:\c++test\consoleapplication1\consoleapplication1\astar.cpp(117): warning C4018: “>”: 有符号/无符号不匹配
+f:\c++test\consoleapplication1\consoleapplication1\astar.cpp(118): warning C4018: “>”: 有符号/无符号不匹配
+  ConsoleApplication1.vcxproj -> F:\C++Test\ConsoleApplication1\Debug\ConsoleApplication1.exe
